@@ -5,7 +5,9 @@
       <img alt="GitHub" src="https://img.shields.io/github/license/GrapeDay/Faucetlib?style=for-the-badge">
       <img alt="Discord" src="https://img.shields.io/discord/1030442606838165554?label=Discord&style=for-the-badge">
   </p>
-<img src="./images/logo.png">
+  <p align="center">
+  <img width="600px" height: 300px src="./images/logo.png">
+</p>
 <h1>Faucet</h1>
 <h2>Description</h2>
 <a><em>Faucet is a small web library made for ease of use</em></a>
