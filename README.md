@@ -1,8 +1,8 @@
   <p align="center">
-      <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/GrapeDay/Faucet?style=for-the-badge">
-      <img alt="GitHub forks" src="https://img.shields.io/github/forks/GrapeDay/Faucet?style=for-the-badge">
-      <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/GrapeDay/Faucet?style=for-the-badge">
-      <img alt="GitHub" src="https://img.shields.io/github/license/GrapeDay/Faucet?style=for-the-badge">
+      <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/GrapeDay/Faucetlib?style=for-the-badge">
+      <img alt="GitHub forks" src="https://img.shields.io/github/forks/GrapeDay/Faucetlib?style=for-the-badge">
+      <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/GrapeDay/Faucetlib?style=for-the-badge">
+      <img alt="GitHub" src="https://img.shields.io/github/license/GrapeDay/Faucetlib?style=for-the-badge">
       <img alt="Discord" src="https://img.shields.io/discord/1030442606838165554?label=Discord&style=for-the-badge">
   </p>
 
